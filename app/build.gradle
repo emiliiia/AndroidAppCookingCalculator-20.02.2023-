@@ -7,6 +7,10 @@ android {
     namespace 'com.emilia.cookingcalculator'
     compileSdk 33
 
+    buildFeatures {
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId "com.emilia.cookingcalculator"
         minSdk 19

@@ -73,6 +73,7 @@
         android:layout_height="50dp"
         android:layout_marginTop="32dp"
         android:text="@string/convert"
+        android:textColor="#212121"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/value" />

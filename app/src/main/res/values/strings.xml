@@ -7,6 +7,6 @@
     <string name="to">To</string>
     <string name="value_to_convert">Value to convert</string>
     <string name="convert">Convert</string>
-    <string name="result">Result</string>
+    <string name="result">%s</string>
     <string name="_0_0">0.0</string>
 </resources>
